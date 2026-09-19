@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Enz!
+ Hi there, I'm Enz!
 
 🎓 I'm a Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM)
 💻 I enjoy building websites, small games, and random projects that I think are cool.
@@ -13,11 +13,9 @@
 🛠️ Things I Use
 
 Languages
-- Python
-- C
-- Java
-- JavaScript / TypeScript
-- SQL
+
+<img width="498" height="48" alt="image" src="https://github.com/user-attachments/assets/7c1903a2-55d5-4aa2-99ad-9afdd0b95ed8" />
+
 
 Currently Exploring
 - 🌐 Web Development
