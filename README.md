@@ -1,4 +1,4 @@
- Hi there, I'm Enz!
+# Hi there, I'm Enz!
 
 🎓 I'm a Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM)
 💻 I enjoy building websites, small games, and random projects that I think are cool.
