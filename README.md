@@ -1,7 +1,7 @@
 # Hi there, I'm Enz!
 
-🎓 I'm a Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM)
-💻 I enjoy building websites, small games, and random projects that I think are cool.
+ I'm a Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM)
+ I enjoy building websites, small games, and random projects that I think are cool.
 
 - 🔭 I’m currently working on **web projects, Python games, and school projects**
 - 🌱 I’m currently learning **Python, C, Java/OOP, databases, web development, and algorithms**
@@ -18,13 +18,13 @@ Languages
 
 
 Currently Exploring
-- 🌐 Web Development
-- 🗄️ Database Design
-- 🎮 Game Development
-- ☁️ Cloud / Deployment
-- 🧠 Algorithms & Data Structures
+-  Web Development
+-  Database Design
+-  Game Development
+-  Cloud / Deployment
+-  Algorithms & Data Structures
 
- 🎵 Outside of Code
+  Outside of Code
 
 When I'm not coding, you'll probably find me playing guitar, working on music with Kamilanto, playing games, or going on long walks.
 
