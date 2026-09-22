@@ -3,14 +3,13 @@
  I'm a Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM)
  I enjoy building websites, small games, and random projects that I think are cool.
 
-- 🔭 I’m currently working on **web projects, Python games, and school projects**
-- 🌱 I’m currently learning **Python, C, Java/OOP, databases, web development, and algorithms**
-- 🎸 I’m also a guitarist in **Kamilanto**, an alt-rock OPM band
-- 👯 I’m looking to collaborate on **fun coding projects, games, and creative ideas**
-- 🤔 I’m looking for help with **becoming a better programmer and understanding the stuff I’m learning in CS**
-- 💬 Ask me about **programming, games, music, guitars, or random tech ideas**
-- ⚡ Fun fact: I can play **guitar, bass, piano, and drums** — mostly self-taught through the internet.
-🛠️ Things I Use
+-  I’m currently working on **web projects, Python games, and school projects**
+-  I’m currently learning **Python, C, Java/OOP, databases, web development, and algorithms**
+-  I’m also a guitarist in **Kamilanto**, an alt-rock OPM band
+-  I’m looking to collaborate on **fun coding projects, games, and creative ideas**
+-  I’m looking for help with **becoming a better programmer and understanding the stuff I’m learning in CS**
+-  Ask me about **programming, games, music, guitars, or random tech ideas**
+-  Fun fact: I can play **guitar, bass, piano, and drums** — mostly self-taught through the internet.
 
 Languages
 
